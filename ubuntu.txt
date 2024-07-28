@@ -1,0 +1,1 @@
+pscp -P 22 asset_management_be.war root@194.195.92.123:/root//pscp -P 22 tenfile.jar root@ip_server:/root//pscp quanlythietbiyte-0.0.1-SNAPSHOT.jar root@194.238.22.65:Hoangnam123@

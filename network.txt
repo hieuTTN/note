@@ -1,0 +1,1 @@
+find password wifi1. open cmd2. netsh3. wlan show profile4. wlan show profile "wifi_name" key=clear
